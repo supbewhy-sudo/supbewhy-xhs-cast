@@ -1,4 +1,4 @@
 interface:
   display_name: "XHS CAST"
-  short_description: "先定目标读者与核心价值，再规划标题统一的完整卡片"
-  default_prompt: "使用 $xhs-cast 先判断目标读者、核心价值、替代方案与证据，再生成标题统一、可直接交给 Guizang 制作的小红书卡片规划。"
+  short_description: "把原始材料整理成读者路径清楚、可直接制作的小红书卡片方案"
+  default_prompt: "使用 $xhs-cast 把我提供的材料规划成面向明确读者、证据可追溯、可直接进入制作的小红书多页卡片。"

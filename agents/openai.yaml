@@ -1,4 +1,4 @@
 interface:
-  display_name: "XHS CAST"
-  short_description: "先确认方向，再按证据规划小红书卡片"
-  default_prompt: "使用 $xhs-cast 先让我确认传播方向，再把我提供的材料按来源、状态和证据上限规划成面向明确读者、可直接进入制作的小红书多页卡片。交互不可用时使用编号确认，不要跳过确认。"
+  display_name: "XHS CAST 2.0"
+  short_description: "XHS CAST 2.0：解释方向取舍，再按证据规划小红书卡片"
+  default_prompt: "使用 $xhs-cast 把我提供的材料规划成面向明确读者、可直接进入制作的小红书多页卡片。正式规划前先给出方向确认，每个选项说明适用场景、内容组织、最终交付和关键取舍；交互不可用时仍提供编号选项，不自动跳过确认。"
